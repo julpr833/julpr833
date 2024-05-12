@@ -1,3 +1,4 @@
+<div style="width:100%; justify-content:center;">
 - 👋 Hi, I’m Julián
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning SvelteKit
@@ -10,3 +11,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <br>
 ![](https://komarev.com/ghpvc/?username=julpr833&color=red)
+</div>
