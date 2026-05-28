@@ -7,12 +7,8 @@
 ---
 
 <p align="center">
-    Hi, I'm Julian I'm a <strong>Software Developer</strong> and I like to make my life (and yours if possible) easier, using <strong>anything</strong> that can understand binary.
-    <hr>
-    <div style="display: flex; gap: 5px; align-items: center;">
-        <img src="images/icons/school.svg"> 
-        I'm currently studying to become a DevOps Engineer
-    </div>
+    Hi, I'm Julian I'm a <strong>Software Developer</strong>. I'm currently studying to become a DevOps Engineer. I like to make my life (and yours if possible) easier, using <strong>anything</strong> that can understand binary.
+<hr>
 </p>
 <hr>    
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=EAF770&width=435&lines=My+skills%2C+languages+%26+frameworks" alt="Typing SVG" /></a>
