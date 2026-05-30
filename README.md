@@ -10,8 +10,7 @@
     Hi, I'm Julian I'm a <strong>Software Developer</strong>. I'm currently studying to become a DevOps Engineer. I like to make my life (and yours if possible) easier, using <strong>anything</strong> that can understand binary.
 </p>
 <hr>    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=EAF770&width=435&lines=My+skills%2C+languages+%26+frameworks" alt="Typing SVG" /></a>
-<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=EAF770&width=435&lines=My+skills%2C+languages%2C+frameworks+%26+tools" alt="Typing SVG" /></a>
 <!-- Lenguajes de Programación y Marcado -->
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
