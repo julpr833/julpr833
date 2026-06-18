@@ -76,7 +76,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8888F7&width=435&lines=Currently+working+on..." alt="Typing SVG" /></a>
 <ul>
     <li>Solomon - An habit tracking application</li>
-    <li>BMRunner - A browser extension to access sites through an alias</li>
+    <li>Learning to automate processes with C#</li>
     <li>Learning reverse engineering</li>
     <li>Expanding my knowledge on low level programming</li>
 </ul>
