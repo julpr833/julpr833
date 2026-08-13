@@ -91,7 +91,3 @@
 </ul>
 
 <hr>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=julpr833&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=bca9cf" />
-</p>
