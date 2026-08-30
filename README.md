@@ -22,6 +22,7 @@
   <li>I'm learning how to play the guitar</li>
   <li>I'm learning Laravel</li>
   <li>I'm reading "Learning SQL 3rd edition by Alan Beaulieu"</li>
+  <li>I'm reading "The C Programming Language 2nd Edition"</li>
   <li>I'm learning to implement the complete DevOps pipeline</li>
 </ul>
 
